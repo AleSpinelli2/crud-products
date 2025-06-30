@@ -28,7 +28,8 @@ Este es un proyecto desarrollado en React para gestionar productos con categorí
    cd crud-products
     npm install
 
-3. Inicializamos la applicacion
+3. Inicializamos el proyecto
+
 ```bash
    npm run dev
 
