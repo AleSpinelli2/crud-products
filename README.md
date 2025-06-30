@@ -21,13 +21,14 @@ Este es un proyecto desarrollado en React para gestionar productos con categorí
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/AleSpinelli2/crud-products.git
-   ```
+
 2. Dentro del proyecto instalar dependencias
 
 ````bash
    cd crud-products
     npm install
-3.Inicializamos la applicacion
+
+3. Inicializamos la applicacion
 ```bash
    npm run dev
-````
+
