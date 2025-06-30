@@ -1,7 +1,7 @@
 # Mi Dashboard de Productos
 
 Este es un proyecto desarrollado en React para gestionar productos con categorías, stock, precio y proveedor.
-
+https://crud-products-alejospinelli.netlify.app
 ## Funcionalidades
 
 - Listado de productos en tabla interactiva.
