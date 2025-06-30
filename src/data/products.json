@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Asus",
+    "category": "Informática",
+    "stock": 10,
+    "price": 1500,
+    "email": "ventas@informatica.com",
+    "date": "2025-06-01"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Apple",
+    "category": "Informática",
+    "stock": 5,
+    "price": 1200,
+    "email": "ventas@informatica.com",
+    "date": "2025-06-05"
+  },
+  {
+    "id": "3",
+    "name": "Televisor Samsung 55\"",
+    "category": "Electrodomésticos",
+    "stock": 8,
+    "price": 900,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-05-20"
+  },
+  {
+    "id": "4",
+    "name": "Microondas LG",
+    "category": "Electrodomésticos",
+    "stock": 12,
+    "price": 250,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "5",
+    "name": "Impresora HP",
+    "category": "Informática",
+    "stock": 15,
+    "price": 200,
+    "email": "ventas@informatica.com",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "6",
+    "name": "Router TP-Link",
+    "category": "Informática",
+    "stock": 20,
+    "price": 60,
+    "email": "ventas@informatica.com",
+    "date": "2025-05-30"
+  },
+  {
+    "id": "7",
+    "name": "Licuadora Oster",
+    "category": "Electrodomésticos",
+    "stock": 7,
+    "price": 70,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-06-03"
+  },
+  {
+    "id": "8",
+    "name": "Sartén antiadherente",
+    "category": "Hogar",
+    "stock": 25,
+    "price": 35,
+    "email": "ventas@hogarproductos.com",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "9",
+    "name": "Cafetera Nespresso",
+    "category": "Electrodomésticos",
+    "stock": 10,
+    "price": 180,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-06-07"
+  },
+  {
+    "id": "10",
+    "name": "Juego de toallas",
+    "category": "Hogar",
+    "stock": 30,
+    "price": 40,
+    "email": "ventas@hogarproductos.com",
+    "date": "2025-05-22"
+  },
+  {
+    "id": "11",
+    "name": "Cama matrimonial",
+    "category": "Hogar",
+    "stock": 5,
+    "price": 700,
+    "email": "ventas@hogarproductos.com",
+    "date": "2025-05-18"
+  },
+  {
+    "id": "12",
+    "name": "Bicicleta MTB",
+    "category": "Deporte",
+    "stock": 6,
+    "price": 600,
+    "email": "ventas@tiendadeportes.com",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "13",
+    "name": "Balón de fútbol",
+    "category": "Deporte",
+    "stock": 20,
+    "price": 25,
+    "email": "ventas@tiendadeportes.com",
+    "date": "2025-06-11"
+  },
+  {
+    "id": "14",
+    "name": "Colchoneta yoga",
+    "category": "Deporte",
+    "stock": 15,
+    "price": 30,
+    "email": "ventas@tiendadeportes.com",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "15",
+    "name": "Plancha para ropa",
+    "category": "Electrodomésticos",
+    "stock": 14,
+    "price": 45,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-05-28"
+  },
+  {
+    "id": "16",
+    "name": "Monitor Dell 24\"",
+    "category": "Informática",
+    "stock": 9,
+    "price": 220,
+    "email": "ventas@informatica.com",
+    "date": "2025-06-08"
+  },
+  {
+    "id": "17",
+    "name": "Escritorio para oficina",
+    "category": "Hogar",
+    "stock": 7,
+    "price": 150,
+    "email": "ventas@hogarproductos.com",
+    "date": "2025-05-27"
+  },
+  {
+    "id": "18",
+    "name": "Auriculares inalámbricos",
+    "category": "Informática",
+    "stock": 18,
+    "price": 80,
+    "email": "ventas@informatica.com",
+    "date": "2025-06-04"
+  },
+  {
+    "id": "19",
+    "name": "Set de mancuernas",
+    "category": "Deporte",
+    "stock": 10,
+    "price": 100,
+    "email": "ventas@tiendadeportes.com",
+    "date": "2025-06-12"
+  },
+  {
+    "id": "20",
+    "name": "Ventilador de pie",
+    "category": "Electrodomésticos",
+    "stock": 13,
+    "price": 55,
+    "email": "ventas@electrodomesticos.com",
+    "date": "2025-06-05"
+  }
+]
